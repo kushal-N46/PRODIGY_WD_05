@@ -221,5 +221,5 @@
   .active-clone#clone-info-humidity span,
   .active-clone#clone-info-wind span {
     transform: translateY(0%);
-  }
-  
+   }
+   
